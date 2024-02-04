@@ -6,4 +6,4 @@ aplicación con el fin de que cuente lo posible para nota, pero soy consciente d
 
 Saludos
 
-Alejandro Rubio Rico
+Alejandro Rubio
